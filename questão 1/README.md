@@ -14,6 +14,8 @@ Given an m x n integers matrix, return the length of the longest increasing path
 
 From each cell, you can either move in four directions: left, right, up, or down. You may not move diagonally or move outside the boundary (i.e., wrap-around is not allowed).
 
+![image](https://github.com/user-attachments/assets/0ffdba55-1e3c-4c04-93f1-fb11c838b529)
+
 
 Constraints:
 
