@@ -21,8 +21,8 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Programaç�
 ## Questões
 | Exercício | Dificuldade | Enunciado | Aluno |
 | -- | -- | -- | -- |
-| []() | Hard | [Clique Aqui]() | Artur Rodrigues Sousa Alves |
-| []() | Medium | [Clique Aqui]() | Artur Rodrigues Sousa Alves |
+| [329. Longest Increasing Path in a Matrix](https://github.com/projeto-de-algoritmos-2024/Grafos1-LeetCodeProblems/tree/main/quest%C3%A3o%201) | Hard | [Clique Aqui](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | Artur Rodrigues Sousa Alves |
+| [474. Ones and Zeroes](https://github.com/projeto-de-algoritmos-2024/PD-LeetCodeProblems/tree/main/quest%C3%A3o%202) | Medium | [Clique Aqui](https://leetcode.com/problems/ones-and-zeroes/description/) | Artur Rodrigues Sousa Alves |
 | []() | Hard | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
 | []() | Medium | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
 
