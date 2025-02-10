@@ -1,5 +1,7 @@
 ## 474. Ones and Zeroes
 
+![image](https://github.com/user-attachments/assets/7d162987-8952-48bd-b5e2-4142e8f8b7fe)
+
 [Link para a questão](https://leetcode.com/problems/ones-and-zeroes/description/)
 
 ### Gravação
@@ -40,5 +42,10 @@ strs[i] consists only of digits '0' and '1'.
 1 <= m, n <= 100
 
 ### Submissões: 
+
+![image](https://github.com/user-attachments/assets/4070c903-cc7a-4257-b478-3ccbf379a743)
+
+
+![image](https://github.com/user-attachments/assets/79d0ccfe-0bbc-4f8e-90d2-7cdd2b032ec3)
 
 
