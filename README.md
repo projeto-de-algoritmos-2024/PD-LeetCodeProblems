@@ -23,8 +23,8 @@ Este repositório contém questões resolvidas, sobre o conteúdo de Programaç�
 | -- | -- | -- | -- |
 | [329. Longest Increasing Path in a Matrix](https://github.com/projeto-de-algoritmos-2024/PD-LeetCodeProblems/tree/main/quest%C3%A3o%201) | Hard | [Clique Aqui](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/description/) | Artur Rodrigues Sousa Alves |
 | [474. Ones and Zeroes](https://github.com/projeto-de-algoritmos-2024/PD-LeetCodeProblems/tree/main/quest%C3%A3o%202) | Medium | [Clique Aqui](https://leetcode.com/problems/ones-and-zeroes/description/) | Artur Rodrigues Sousa Alves |
-| []() | Hard | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
-| []() | Medium | [Clique Aqui]() |  Miguel Matos Costa De Frias Barbosa |
+| [32. Longest Valid Parentheses](https://github.com/projeto-de-algoritmos-2024/PD-LeetCodeProblems/tree/main/quest%C3%A3o%203) | Hard | [Clique Aqui](https://leetcode.com/problems/longest-valid-parentheses/description/) |  Miguel Matos Costa De Frias Barbosa |
+| [64. Minimum Path Sum](https://github.com/projeto-de-algoritmos-2024/PD-LeetCodeProblems/tree/main/quest%C3%A3o%204) | Medium | [Clique Aqui](https://leetcode.com/problems/minimum-path-sum/description/) |  Miguel Matos Costa De Frias Barbosa |
 
 ## Instalação 
 [Python](https://www.python.org/)
